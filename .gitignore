@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data cache (re-downloadable)
+data/cache/
+
+# Generated outputs: keep the plots the README embeds, ignore the CSV tables
+results/*
+!results/.gitkeep
+!results/*.png
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

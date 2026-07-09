@@ -1,0 +1,9 @@
+numpy>=1.26,<3
+pandas>=2.1
+yfinance>=0.2.40
+hmmlearn>=0.3.2
+scikit-learn>=1.4
+cvxpy>=1.4
+matplotlib>=3.8
+jupyter>=1.0
+ipykernel>=6.29

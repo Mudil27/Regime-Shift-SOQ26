@@ -1,0 +1,16 @@
+name: regimeshift
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy>=1.26
+  - pandas>=2.1
+  - scikit-learn>=1.4
+  - matplotlib>=3.8
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+      - yfinance>=0.2.40
+      - hmmlearn>=0.3.2
+      - cvxpy>=1.4
