@@ -296,7 +296,3 @@ rather than negative in stress, with the equity engine running in bull.
   leg understates yield (conservative); ~17 years of data contains a handful
   of true crises, so regime statistics are estimated from few events; results
   depend on Yahoo's data quality.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
