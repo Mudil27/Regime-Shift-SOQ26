@@ -1,4 +1,4 @@
-# RegimeShift — HMM-driven multi-asset regime rotation
+# RegimeShift: HMM-driven multi-asset regime rotation
 
 A market-regime detection and portfolio-rotation system for Indian assets.
 A 3-state Gaussian Hidden Markov Model classifies the market into
